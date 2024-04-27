@@ -1,5 +1,5 @@
 ## UI_DESIGNS
-Portfolio : piyushd.framer.website
+Portfolio : https://piyushd.framer.website/
 
 # Skills
 Figma 
